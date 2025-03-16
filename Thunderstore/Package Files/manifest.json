@@ -1,10 +1,11 @@
 ﻿{
 	"name": "NegativeBossHealthTweak",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/LordVGames/NegativeBossHealthTweak",
 	"description": "Makes the boss health bar numbers show as question marks instead of negative 32-bit integer limit when boss health is past said limit.",
 	"dependencies": [
 		"bbepis-BepInExPack-5.4.2117",
-		"RiskofThunder-HookGenPatcher-1.2.5"
+		"RiskofThunder-HookGenPatcher-1.2.5",
+		"RiskofThunder-R2API_Core-5.1.5"
 	]
 }
